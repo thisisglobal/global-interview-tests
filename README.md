@@ -1,7 +1,6 @@
-#Employee Service Coding Test
+# Employee Service Coding Test
 
-
-##Task
+### Task
 * Create a RESTful API with one endpoint:
     * ```GET /employees```
 * With optional query params:
@@ -16,7 +15,7 @@
         * e.g. ```/employees?sort=lastName?direction=DESC```
         * Defaults to ASC
         
-##Database
+### Database
 | Column Name     | type           | example   |
 |: ------------ : |:-------------: | -----:    |
 | id              | INT(11)        | 1         |
@@ -33,7 +32,7 @@ To run the container on port 3326 (default for project setup), run:
 
 ```docker run -d -p 3326:3203 cmboult/global-test-db```
 
-##Example Responses
+### Example Responses
 ```
 GET /employees
 [  
