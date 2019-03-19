@@ -17,7 +17,7 @@
         
 ### Database
 | Column Name     | type           | example   |
-|: ------------ : |:-------------: | -----:    |
+| ------------    | -------------  | --------  |
 | id              | INT(11)        | 1         |
 | first_name      | VARCHAR(32)    | Cristiano |
 | last_name       | VARCHAR(32)    | Ronaldo   |       
