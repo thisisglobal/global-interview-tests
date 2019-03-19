@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3316/mediamanager?useSSL=false&useLegacyDatetimeCode=false
-    username: mediamanager
-    password: mediamanager
+    url: jdbc:mysql://localhost:3326/global?useSSL=false&useLegacyDatetimeCode=false
+    username: global
+    password: global
     driverClassName: com.mysql.cj.jdbc.Driver
     test-while-idle: true
     jpa:
