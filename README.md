@@ -30,7 +30,7 @@ To pull the seeded docker MySQL image run:
 
 To run the container on port 3326 (default for project setup), run:
 
-```docker run -d -p 3326:3203 cmboult/global-test-db```
+```docker run -d -p 3326:3306 cmboult/global-test-db```
 
 ### Example Responses
 ```
