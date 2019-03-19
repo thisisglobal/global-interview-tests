@@ -16,7 +16,7 @@
         * Defaults to ASC
         
 ### Database
-| Column Name     | type           | example   |
+| field           | type           | example   |
 | ------------    | -------------  | --------  |
 | id              | INT(11)        | 1         |
 | first_name      | VARCHAR(32)    | Cristiano |
